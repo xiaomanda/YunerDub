@@ -25,7 +25,7 @@ from PySide6.QtMultimedia import QMediaPlayer, QAudioOutput
 from PySide6.QtMultimediaWidgets import QVideoWidget
 
 
-LOOP_BACK_MARGIN_MS = 300
+LOOP_BACK_MARGIN_MS = 300 #AA
 
 # ── TTS 配置 ──────────────────────────────────────────────────────────────────
 # TTS 子进程使用专用 venv 的 Python（与 2.12 完全一致）。
